@@ -1,8 +1,10 @@
 one-two-three-git
 =================
 
-<<<<<<< HEAD
-### to update
->>>>>>> 2e09230a2b0b49065f0909d7ad77248fc6b39604
+### Level 1
 
+**Remember that you should always check the README.md file for your next clue!**
 
+Your first task is to checkout the commit whose commit-message is the name of this challenge.
+
+> Easy start, no?
