@@ -1,13 +1,13 @@
 one-two-three-git
 =================
 
-### Level 9
+### Level 8
 
-Welcome to my Tag!!!
+Looks like you resolved your conflict and found our branch, congrats!!
 
-If you're looking for my branch then you have gone the wrong way!!
+Hmm...it seems this branch has a file that was seen before in another branch.
+Do you "remember" what it is?
 
-How do you checkout to a branch that has the same name as a tag???
+I think this file has something to do with the next clue, but it seems to be very ugly looking.
 
-Deal with the tag first!!
-
+Maybe if we compare the "diff"erences between this file and the file from before we'll know where to go next...
